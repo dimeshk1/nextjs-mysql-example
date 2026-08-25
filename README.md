@@ -1,3 +1,7 @@
+duckdns
+http://appaug25.duckdns.org
+https://appaug25.duckdns.org
+
 ##### TASK 1 - Linux & Server Setup
 
 1]
